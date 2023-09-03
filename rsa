@@ -157,4 +157,3 @@ exec_time = end_time - start_time
 
 # Print the execution time in seconds
 print("Total execution time: ", exec_time, " seconds")
-
